@@ -1,0 +1,55 @@
+.hw {
+  text-align: center;
+  color: #ffffff;
+  font-family: monospace;
+  
+}
+
+.body {
+  background-color: #ff0000;
+  background-image: url('https://assets.goal.com/images/v3/blt750bbc2212942232/GettyImages-1967999408.jpg?auto=webp&format=pjpg&width=2048&quality=60');
+}
+
+.h2{ 
+  text-align: center;
+  color: #ffffff;
+  font-family: monospace;
+}
+
+.p1 {
+  text-align: left;
+  color: #004D98;
+  font-family: sans-serif;
+}
+
+.p2 {
+  text-align: right;
+  color: #004D98;
+  font-family: sans-serif;
+}
+
+.link1 {
+  font-family: monospace;
+  text-align: center;
+  font-size: 40px
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.barca {
+  text-align: center;
+  font-size: 45px;
+  font-family: monospace;
+}
