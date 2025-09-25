@@ -9,6 +9,13 @@
   background-color: #004D98;
   float: top;
   text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  border-radius: 10px;
+  margin: 20px;
+  border: 5px solid #004D98;
 }
 
 .body {
